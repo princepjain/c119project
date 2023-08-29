@@ -1,0 +1,16 @@
+body{
+    background-color: lightgreen;
+}
+
+
+canvas{
+    padding-top: 100px;
+}
+
+#sketchtobedrawn{
+    font-size: 20px;
+}
+
+#score{
+    padding-right: 100px;
+}
